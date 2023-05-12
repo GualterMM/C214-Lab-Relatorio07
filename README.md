@@ -1,3 +1,5 @@
+![workflow](https://github.com/GualterMM/C214-Lab-Relatorio07/actions/workflows/node.js.yml/badge.svg)
+
 # Projeto API em Node
 Um projeto de API utilizando NodeJS, Express e MongoDB. A aplicação consiste em um simples CRUD de um banco de dados de carros, incluindo teste unitários e testes mock.
 
